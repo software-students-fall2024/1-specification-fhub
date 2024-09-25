@@ -72,7 +72,10 @@ a software that gives live easy to digest news and stock charts for people new t
 where [type of user], [some goal] and [some reason] are replaced with appropriate values. Keep them small and written in non-technical language that the type of user would use.
 
 ## Activity Diagrams
-![UML Activity Diagram for CS Student User Story](./UML2.png)
+
+![UML Activity Diagram for CS Student User Story](images/UML_1.png)
+![UML Activity Diagram for Rich Chinese Teen User Story](images/UML2.png)
+
 
 ## Wireframe Diagram
 https://www.figma.com/design/DYKkAYenxmDuGHJB9SNolS/Project1_FHUB?node-id=0-1&node-type=canvas&t=nVhfpG4kYgWXQJpB-0
